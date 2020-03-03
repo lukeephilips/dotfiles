@@ -20,6 +20,6 @@ fi
 
 
 # git autocomplete bash functions with bash-completion https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion
-if [ -f $(brew --prefix)/etc/bash_completion ]; then
- . $(brew --prefix)/etc/bash_completion
-fi
+# if [ -f $(brew --prefix)/etc/bash_completion ]; then
+#  . $(brew --prefix)/etc/bash_completion
+# fi
